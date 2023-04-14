@@ -13,4 +13,4 @@ For instance:
 The goal of this project is to find such iterated reversal palindromes, and the smallest number of iterations,
 in order to get a palindromic number, given the constraints on this number of iterations.
 
-See
+See B-SYN-200_palindrome.pdf for more details !
